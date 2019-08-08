@@ -7,7 +7,7 @@ server:
   port: 8100
 spring:
   application:
-    name: train-edu-userInfo-service
+    name: train-edu-userInfo-service---111111111
   profiles: dev
 
 eureka:
@@ -24,7 +24,7 @@ server:
   port: 8200
 spring:
   application:
-    name: train-edu-userInfo-service
+    name: train-edu-userInfo-service--222222222222222
   profiles: test
 
 eureka:
