@@ -4,7 +4,7 @@ spring:
     - test
 ---
 server:
-  port: 83ss00
+  port: 8300
 spring:
   application:
     name: train-edu-userInfo-service---111111111
